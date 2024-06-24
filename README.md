@@ -6,7 +6,10 @@
 
 > Cüzdanımız ile bağlanıyoruz [buradan](https://alpha.nubit.org/) 
 
-> Herhangi bir sunucuya bu komutu giriyoruz: `curl -sL1 https://nubit.sh | bash`
+> Herhangi bir sunucuya bu komutları giriyoruz: 
+
+`screen -S nubit`
+`curl -sL1 https://nubit.sh | bash`
 
 > Loglarrımız arasındaki keyleri kaydediyoruz.
 
