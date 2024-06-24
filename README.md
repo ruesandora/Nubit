@@ -19,3 +19,23 @@
 > Pubkey'i 15 dakika sonra verify ediyoruz, totalde 6k puanımızı alıyoruz.
 
 <img width="622" alt="Ekran Resmi 2024-06-24 17 22 44" src="https://github.com/ruesandora/Nubit/assets/101149671/f81d1cf5-139a-413c-a830-ef00b42c0339">
+
+## 
+
+-  Eğer ekran çok hızlı geçtiyse pubkey'inizi görmek için (screen dışında deneyin)
+
+```sh
+ $HOME/nubit-node/bin/nkey list --p2p.network nubit-alphatestnet-1 --node.type light
+```
+
+> **key: yazan kısmı siteye girin.
+ address: yazan kısım da sizin nubit adresinizdir.**
+ 
+ ##
+
+-  Adresinizin kurtarma tümceciklerini (mnemonic) görmek için ise:
+
+```sh
+nano $HOME/nubit-node/mnemonic.txt
+```
+
