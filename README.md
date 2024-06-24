@@ -12,6 +12,7 @@
 `curl -sL1 https://nubit.sh | bash`
 
 > Loglarrımız arasındaki keyleri kaydediyoruz.
+> Kaydettikten sonra ctrl a+d ile screenden çıkıyoruz.
 
 ![image](https://github.com/ruesandora/Nubit/assets/101149671/2ef4e7cd-7d50-42e7-9864-23f20399bb17)
 
